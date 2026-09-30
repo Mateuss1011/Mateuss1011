@@ -1,4 +1,4 @@
-# Olá, eu sou o Mateus 👋
+# Olá, eu sou o Mateus 
 
 Formado em **Análise e Desenvolvimento de Sistemas** pela UCSal, com experiência na área **administrativa e financeira** do setor público, lidando no dia a dia com conferência de documentos, planilhas e relatórios em Excel.
 
