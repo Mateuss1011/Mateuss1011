@@ -19,7 +19,7 @@ Hoje estou unindo essas duas bases — finanças e desenvolvimento — e estudan
 | [Controle-Financeiro](https://github.com/Mateuss1011/Controle-Financeiro) | Sistema de controle financeiro pessoal | Laravel · React |
 | [sistema-financeiro-igrejas](https://github.com/Mateuss1011/sistema-financeiro-igrejas) | Gestão financeira para igrejas: dízimos, ofertas, despesas, fechamento mensal, relatórios e auditoria | Laravel · React · Bootstrap |
 | [FitAI](https://github.com/Mateuss1011/FitAI) | Assistente inteligente de fitness e nutrição | Kotlin · Firebase |
-| [vitta-odonto](https://github.com/Mateuss1011/vitta-odonto) | Landing page institucional para clínica odontológica | React · Vite · Bootstrap |
+| [vitta-odonto](https://github.com/Mateuss1011/vitta-odonto) | Landing page institucional para clínica odontológica · [ver no ar](https://mateuss1011.github.io/vitta-odonto/) | React · Vite · Bootstrap |
 
 ## 📫 Contato
 
