@@ -23,4 +23,5 @@ Hoje estou unindo essas duas bases — finanças e desenvolvimento — e estudan
 
 ## 📫 Contato
 
-<!-- Adicione aqui seu LinkedIn e e-mail -->
+- 💼 LinkedIn: [Mateus Silva Santos](https://www.linkedin.com/in/mateus-silva-santos-678082283)
+- ✉️ E-mail: [mateusss1011@gmail.com](mailto:mateusss1011@gmail.com)
